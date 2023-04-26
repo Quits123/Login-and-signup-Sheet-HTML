@@ -6,3 +6,6 @@ Rest assured, your security is my top priority. My login sheet is equipped with 
 
 Join me on this exhilarating journey as you enter your credentials and click that download button. Whether you're a seasoned professional or a budding innovator, my login sheet is your gateway to unlock the boundless opportunities that await you. Come aboard and let your digital aspirations take flight!
 
+This is copyright under the MIT Liscense
+
+Copyright (c) 2023 Quits123
